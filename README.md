@@ -22,7 +22,7 @@ I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
 <p>
 <h1>Servers</h1>
-Go to <a href="https://web.archive.org/web/20230205110931/https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit"<a>this doc</a> (had to use the wayback machine) to get <b>a list of Multiplayer Server Adresses.</b> I do not own it or edit it in any way.
+Go to <a href="https://docs.google.com/document/d/1Dz7OAYckd_oea3qUHkRYtT4eZVZjuQalIUKyZ3ZFaEA/edit?usp=sharing"<a>this doc<a> to get <b>a list of Multiplayer Server Addresses.</b> I currently own it and will make any updates if needed.
 </p>
 
 <h1>IMPORTANT!</h1>
