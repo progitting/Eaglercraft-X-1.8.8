@@ -14,10 +14,10 @@ I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
 <p>
 <h1>How to launch game in browser:</h1>
-<p>1. Download the zip file.</p>
-<p>2. Open the zip in your files.</p>
-<p>3. Find the eaglercraft.1.8.8.html file.</p>
-<p>4. Open the file and let it load.</p>
+<p>1. Download the HTML file.</p>
+<p>2. Open the file in your browser using CTRL + ).</p>
+<p>3. Let the file load. (You may need to press a key to enable sound, which is required.)</p>
+<p>4. Play the game and have fun!</p>
 </p>
 
 <p>
