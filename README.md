@@ -6,7 +6,7 @@
 
 I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
- Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. <b>If you want to play singleplayer, you will have to download my Eaglercraft 1.5.2, as this version only has multiplayer.</b>
+ Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. <b>This version of 1.8.8 had both Multiplayer and SIngleplayer, so export your worlds from 1.5.2 using EPK or Vanilla formats!</b>
 </p>
 </head>
 
