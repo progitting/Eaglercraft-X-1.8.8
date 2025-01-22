@@ -1,5 +1,5 @@
 <html>
-<h1>Eaglercraft 1.8.8 Browser</h1>
+<h1>EaglerCraft X 1.8.8 Browser</h1>
 <head>
 <p>
 <b>Eaglercraft 1.8.8 javascript runtime.</b>
