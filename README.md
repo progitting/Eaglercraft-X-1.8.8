@@ -6,7 +6,7 @@
 
 I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
- 1.8.8 offers a variety of game modes to suit your playstyle.  Choose from Survival, where you gather resources and face challenges, Creative, where you have unlimited resources and freedom to build, and, Hardcore, a high-stakes mode with permadeath.  Whether you prefer playing solo or with friends, EaglerCraft has you covered.  Join public or private servers online, play with others on your local network, or create your own singleplayer worlds. You can even customize your world's difficulty, game rules, and cheats to personalize your experience. <b>This version of 1.8.8 has both Multiplayer and Singleplayer, so export your worlds from 1.5.2 using EPK or Vanilla formats!</b>
+ 1.8.8 offers a variety of game modes to suit your playstyle.  Choose from Survival, where you gather resources and face challenges, Creative, where you have unlimited resources and freedom to build, and Hardcore, a high-stakes mode with permadeath.  Whether you prefer playing solo or with friends, EaglerCraft has various options for playing.  Join public or private servers online, play with others on your local network, or create your own singleplayer worlds. You can even customize your world's difficulty, game rules, and cheats to personalize your experience. <b>This version of 1.8.8 has both Multiplayer and Singleplayer, so export your worlds from 1.5.2 using EPK or Vanilla formats!</b>
 </p>
 </head>
 
