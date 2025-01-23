@@ -25,7 +25,7 @@ I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 Go to <a href="https://docs.google.com/document/d/1Dz7OAYckd_oea3qUHkRYtT4eZVZjuQalIUKyZ3ZFaEA/edit?usp=sharing"<a>this doc<a> to get <b>a list of Multiplayer Server Addresses.</b> I currently make any updates on the document for any new servers created.
 </p>
 
-<h1>IMPORTANT!</h1>
+<h1>Letting the game load</h1>
 
 <p>
 When you create a new world, it will be a black screen, or you may have spawned underground. <b>ALL YOU HAVE TO DO IS WAIT FOR 1 TO 5 MINUTES!</b> It will fix on its own. It will also be laggy and unstable at first, but it will smooth out after 5 to 10 minutes. <b>Keep in mind that this is an older version of Minecraft and that not everything in the real current Minecraft will be avialable, such as the newer mobs and blocks.</b>
