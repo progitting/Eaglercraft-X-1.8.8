@@ -1,5 +1,5 @@
 <html>
-<h1>EaglerCraft X 1.8.8 Browser</h1>
+<h1>EaglerCraft X 1.8.8 u47 for Web Browser</h1>
 <head>
 <p>
 <b>EaglerCraft is a web-based version of Minecraft made possible by translating its Java code into JavaScript.</b>
