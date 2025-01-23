@@ -6,7 +6,7 @@
 
 I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
- Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. <b>This version of 1.8.8 has both Multiplayer and Singleplayer, so export your worlds from 1.5.2 using EPK or Vanilla formats!</b>
+ 1.8.8 offers a variety of game modes to suit your playstyle.  Choose from Survival, where you gather resources and face challenges, Creative, where you have unlimited resources and freedom to build, and, Hardcore, a high-stakes mode with permadeath.  Whether you prefer playing solo or with friends, EaglerCraft has you covered.  Join public or private servers online, play with others on your local network, or create your own singleplayer worlds. You can even customize your world's difficulty, game rules, and cheats to personalize your experience. <b>This version of 1.8.8 has both Multiplayer and Singleplayer, so export your worlds from 1.5.2 using EPK or Vanilla formats!</b>
 </p>
 </head>
 
@@ -22,15 +22,15 @@ I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
 <p>
 <h1>Servers</h1>
-Go to <a href="https://docs.google.com/document/d/1Dz7OAYckd_oea3qUHkRYtT4eZVZjuQalIUKyZ3ZFaEA/edit?usp=sharing"<a>this doc<a> to get <b>a list of Multiplayer Server Addresses.</b> I currently own it and will make any updates if needed.
+Go to <a href="https://docs.google.com/document/d/1Dz7OAYckd_oea3qUHkRYtT4eZVZjuQalIUKyZ3ZFaEA/edit?usp=sharing"<a>this doc<a> to get <b>a list of Multiplayer Server Addresses.</b> I currently make any updates on the document for any new servers created.
 </p>
 
 <h1>IMPORTANT!</h1>
 
 <p>
-When you create a new world, it will be a black screen, or you may have spawned underground. <b>ALL YOU HAVE TO DO IS WAIT 1–5 MINUTES!</b> It will fix on its own. It will also be laggy at first, but it will smooth out after 5–10 minutes. <b>Keep in mind that this is an old version of Minecraft and that not everything in the real current Minecraft will be avialable.</b>
+When you create a new world, it will be a black screen, or you may have spawned underground. <b>ALL YOU HAVE TO DO IS WAIT FOR 1 TO 5 MINUTES!</b> It will fix on its own. It will also be laggy and unstable at first, but it will smooth out after 5 to 10 minutes. <b>Keep in mind that this is an older version of Minecraft and that not everything in the real current Minecraft will be avialable, such as the newer mobs and blocks.</b>
 </p>
 
 <div>
 
-<footer><small><b>Disclaimer:</b> I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.<small><footer>
+<footer><small><b>Disclaimer:</b> I do not own EaglerCraft or Minecraft, and I am not associated with these games in any way, this is just a way for people to access EaglerCraft fullscreen on their browser.<small><footer>
