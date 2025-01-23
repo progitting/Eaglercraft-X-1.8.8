@@ -2,7 +2,7 @@
 <h1>EaglerCraft X 1.8.8 Browser</h1>
 <head>
 <p>
-<b>Eaglercraft 1.8.8 javascript runtime.</b>
+<b>EaglerCraft is a web-based version of Minecraft made possible by translating its Java code into JavaScript..</b>
 
 I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM!
 
