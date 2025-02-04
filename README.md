@@ -34,3 +34,5 @@ When you create a new world, it will be a black screen, or you may have spawned 
 <div>
 
 <footer><small><b>Disclaimer:</b> I do not own EaglerCraft or Minecraft, and I am not associated with these games in any way, this is just a way for people to access EaglerCraft fullscreen on their browser.<small><footer>
+
+<p>Original Fork by <a href="https://github.com/vidio-boy"<a> Vidio-Boy<a></p>
