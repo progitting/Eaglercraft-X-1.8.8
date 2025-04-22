@@ -15,7 +15,7 @@ I'LL BE UPLOADING NEW VERSIONS EACH UPDATE SO LOOK OUT FOR THEM\!
 2\. Open the file in your browser using CTRL \+ O.
 
 3\. Let the file load. (You may need to press a key to enable sound, which is required.)  
-![][[image1](https://drive.google.com/file/d/1K2b8Zu8OIeS97E7YNs6sUCxyaUFc9mCs/view)]
+![][https://drive.google.com/file/d/1K2b8Zu8OIeS97E7YNs6sUCxyaUFc9mCs/view]
 
 4\. Play the game and have fun\!
 
